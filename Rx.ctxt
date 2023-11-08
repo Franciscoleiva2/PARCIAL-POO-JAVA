@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Rx
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Rx\ here.\r\n\ \r\n\ @author\ (Francisco\ Leiva)\ \r\n\ @version\ (31/10/23)\r\n
+comment1.params=p_id\ p_nombre\ p_kilos\ p_rings
+comment1.target=Rx(int,\ java.lang.String,\ double,\ int)
+comment2.params=p_rings
+comment2.target=void\ setRings(int)
+comment3.params=
+comment3.target=int\ getRings()
+comment4.params=
+comment4.target=java.lang.String\ imprimirTipo()
+comment5.params=
+comment5.target=java.lang.String\ mostrarDatos()
+numComments=6

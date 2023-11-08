@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Campeonato
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Campeonato\ here.\r\n\ \r\n\ @author\ (Francisco\ Leiva)\ \r\n\ @version\ (31/10/23)\r\n
+comment1.params=p_nombre\ p_equipos
+comment1.target=Campeonato(java.lang.String,\ java.util.ArrayList)
+comment2.params=p_nombre\ p_equipo
+comment2.target=Campeonato(java.lang.String,\ Equipo)
+comment3.params=p_nombre
+comment3.target=void\ setNombre(java.lang.String)
+comment4.params=p_equipos
+comment4.target=void\ setEquipos(java.util.ArrayList)
+comment5.params=
+comment5.target=java.lang.String\ getNombre()
+comment6.params=
+comment6.target=java.util.ArrayList\ getEquipos()
+comment7.params=
+comment7.target=void\ determinarGanador()
+comment8.params=p_equipo
+comment8.target=boolean\ agregar(Equipo)
+comment9.params=p_equipo
+comment9.target=boolean\ quitar(Equipo)
+numComments=10
