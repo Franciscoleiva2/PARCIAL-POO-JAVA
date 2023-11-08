@@ -9,7 +9,7 @@ import java.util.*;
 public class GestionEvento
 {
     public static void main(){
-        Atleta unAtleta1 = new Rx(123, "Pedro Juarez", 100.0, 3);
+        Atleta unAtleta1 = new Rx(123, "Gauto Ignacio", 100.0, 3);
         Atleta unAtleta2 = new Advanced(145, "Victor Lopez", 200.0, 2);
         Atleta unAtleta3 = new Scaled(157, "Lucas Vargas", 270.0, 4);
         ArrayList<Atleta> atletas_1 = new ArrayList<Atleta>();
@@ -30,7 +30,6 @@ public class GestionEvento
         Campeonato unCampeonato = new Campeonato("XV Torneo Nacional de Crossfit", equipo_1);
         unCampeonato.agregar(equipo_2);
         equipo_1.listarEquipo();
-        equipo_1.mostrar();
 
         unCampeonato.determinarGanador();
     }
